@@ -6,6 +6,10 @@ format:
 jupyter: python3
 ---
 
+# New Section
+
+Did republishing work?
+
 For a demo of a line plot on a polar axis, see @fig-polar.
 
 ```{python}
